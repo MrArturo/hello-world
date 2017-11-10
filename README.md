@@ -1,2 +1,3 @@
 # hello-world
-Primes reopsitory que hago
+Primer repositorio que hago
+Me gusta dormir, los videojuegos y la programación
